@@ -1,0 +1,8 @@
+requests==2.31.0
+wikipedia==1.4.0
+psutil==5.9.8
+pyautogui==0.9.54
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+yt-dlp==2024.3.10
+SpeechRecognition==3.10.1
